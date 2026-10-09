@@ -20,7 +20,7 @@ Biruni Üniversitesi · Bilgisayar Mühendisliği · 3. sınıf
 
 Biruni Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. **Unity ve C# ile oyun geliştiriyorum.** Oyun mekaniği, oyuncu etkileşimi ve arayüz üzerinde çalışıyor; fikirlerimi oynanabilir projelere dönüştürüyorum.
 
-Bireysel oyun projelerimin yanında ekip çalışmalarında da yer alıyorum. Oyun geliştirme çalışmalarına ek olarak yapay zekâ ve yüz analizi destekli bir TÜSEB projesinde çalışıyorum.
+Bireysel oyun projelerimin yanında ekip çalışmalarında da yer alıyorum. Oyun geliştirme çalışmalarına ek olarak, okul öncesi çocukların bilişsel ve duygusal gelişim takibini amaçlayan, **TÜSEB'den kabul alan** bir ekip projesinde yer alıyorum.
 
 ## 🎮 Oyun projelerim
 
@@ -63,7 +63,13 @@ itch.io'da paylaştığım oyun projelerimden biri: **Cozy Toys**.
 
 ## 🧠 TÜSEB projesi
 
-Ekibimizle geliştirdiğimiz proje **TÜSEB'den kabul aldı**. Projede psikolojik yapay zekâ ve yüz analizi destekli bir sistem üzerinde çalışıyoruz.
+> **Ekibimizle hazırladığımız bu proje TÜSEB'den kabul aldı.**
+
+### Okul Öncesi Çocuklarda Bilişsel ve Duygusal Gelişim Takibi İçin Yapay Zeka Destekli Dijital Değerlendirme Sistemi
+
+Projemiz, okul öncesi çocukların bilişsel ve duygusal gelişimlerinin takibini desteklemeyi amaçlayan bir dijital değerlendirme sistemidir. Çocukların yaşlarına uygun dijital etkinliklerdeki etkileşimlerini ve duygusal tepkilerini birlikte ele alarak gelişim süreçlerinin daha bütüncül biçimde değerlendirilmesini hedefler.
+
+Psikolojik değerlendirmeyi yapay zekâ ve yüz analiziyle destekleyen bu yaklaşımın amacı, çocukların kendilerini daha rahat ifade edebildiği bir değerlendirme deneyimi sunmak, gelişimsel risklerin erken fark edilmesine ve uzmanların değerlendirme süreçlerine katkı sağlamaktır.
 
 ---
 
